@@ -21,13 +21,23 @@ Matlab script
 -------------
 
 The matlab scripts can be run without external parameters and will
-return:
+return the mean molecule amount for the exogenous transcripts corresponding to the 
+CTs present in the RealTime data directory in this repository for three different 
+experiments.
+"conti_finale.m" calls Yfp.m, Cherry.m and Cerulean.m (I experiment)
+"conti_finale_II.m" calls Yfp_II.m, Cherry_II.m and Cerulean_II.m (II experiment)
+"conti_finale_III.m" calls Yfp_III.m, Cherry_III.m and Cerulean_III.m (III experiment)
 
+"real_time_mirna.m" evaluates the number of endogenous miR-20a from the CTs from the corresponding real time experiment. 
 
 RealTime data
 -------------
 
+"24_07_14_quantificazione_campioni_sortati_excel.xls" -> I experiment
+"quantificazione_fluorofori_021014.xls" -> II experiment
+"quantificazione_fluorofori_161014.txt" -> III experiment
 
+"080716_analisi_miR20a_t.xls" -> RealTime for the quantification of miR-20a
 
 
 
