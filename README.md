@@ -37,12 +37,12 @@ Finally:
 
 RealTime data
 -------------
+The RealTime data are in following four files: 
 
-"24_07_14_quantificazione_campioni_sortati_excel.xls" -> I experiment
-"quantificazione_fluorofori_021014.xls" -> II experiment
-"quantificazione_fluorofori_161014.txt" -> III experiment
-
-"080716_analisi_miR20a_t.xls" -> RealTime for the quantification of miR-20a
+* "24_07_14_quantificazione_campioni_sortati_excel.xls" -> I experiment
+* "quantificazione_fluorofori_021014.xls" -> II experiment
+* "quantificazione_fluorofori_161014.txt" -> III experiment
+* "080716_analisi_miR20a_t.xls" -> RealTime for the quantification of miR-20a
 
 
 
