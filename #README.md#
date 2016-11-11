@@ -21,7 +21,7 @@ Matlab script
 -------------
 
 The matlab scripts can be run without external parameters and will
-return the XXX
+return:
 
 
 RealTime data
