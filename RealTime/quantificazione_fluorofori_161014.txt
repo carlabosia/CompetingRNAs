@@ -1,0 +1,264 @@
+SDS	2.3	AQ	Results	1																																			
+Filename	quantificazione_fluorofori_161014																																						
+PlateID																																							
+Assay	Type	Absolute	Quantification																																				
+Run	DateTime	10/16/2014	7:52:48	PM																																			
+Operator																																							
+ThermalCycleParams																																							
+
+Sample	Information																																						
+
+Well	Sample	Name	Detector	Name	Reporter	Task	Ct	Quantity	Qty	Mean	Qty	StdDev	Ct	Median	Ct	Mean	Ct	StdDev	Baseline	Type	Baseline	Start	Baseline	Stop	Threshold	Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF
+16	1	18s	m	SYBR	Unknown	Undetermined	Automatic	Automatic	0.2798842	TRUE	TRUE																												
+17	1	18s	m	SYBR	Unknown	32.943645	Automatic	Automatic	0.2798842																														
+18	1	18s	m	SYBR	Unknown	Undetermined	Automatic	Automatic	0.2798842	TRUE	TRUE																												
+40	2	18s	m	SYBR	Unknown	19.540485	19.599049	19.586191	0.040824153	Automatic	Automatic	0.2798842	TRUE																										
+41	2	18s	m	SYBR	Unknown	19.619038	19.599049	19.586191	0.040824153	Automatic	Automatic	0.2798842	TRUE																										
+42	2	18s	m	SYBR	Unknown	19.599049	19.599049	19.586191	0.040824153	Automatic	Automatic	0.2798842	TRUE
+64	3	18s	m	SYBR	Unknown	21.957016	21.787601	21.749464	0.2290148	Automatic	Automatic	0.2798842	TRUE
+65	3	18s	m	SYBR	Unknown	21.503775	21.787601	21.749464	0.2290148	Automatic	Automatic	0.2798842	TRUE
+66	3	18s	m	SYBR	Unknown	21.787601	21.787601	21.749464	0.2290148	Automatic	Automatic	0.2798842	TRUE
+88	4	18s	m	SYBR	Unknown	17.776196	17.828987	17.829044	0.052876495	Automatic	Automatic	0.2798842	TRUE
+89	4	18s	m	SYBR	Unknown	17.881948	17.828987	17.829044	0.052876495	Automatic	Automatic	0.2798842	TRUE
+90	4	18s	m	SYBR	Unknown	17.828987	17.828987	17.829044	0.052876495	Automatic	Automatic	0.2798842	TRUE
+112	5	18s	m	SYBR	Unknown	15.297912	15.251783	15.2204275	0.097039506	Automatic	Automatic	0.2798842	TRUE
+113	5	18s	m	SYBR	Unknown	15.111587	15.251783	15.2204275	0.097039506	Automatic	Automatic	0.2798842	TRUE
+114	5	18s	m	SYBR	Unknown	15.251783	15.251783	15.2204275	0.097039506	Automatic	Automatic	0.2798842	TRUE
+136	6	18s	m	SYBR	Unknown	20.091843	20.091843	20.062151	0.35415277	Automatic	Automatic	0.2798842	TRUE
+137	6	18s	m	SYBR	Unknown	20.400524	20.091843	20.062151	0.35415277	Automatic	Automatic	0.2798842	TRUE
+138	6	18s	m	SYBR	Unknown	19.694088	20.091843	20.062151	0.35415277	Automatic	Automatic	0.2798842	TRUE
+160	7	18s	m	SYBR	Unknown	18.728064	18.696583	18.693254	0.036585998	Automatic	Automatic	0.2798842	TRUE
+161	7	18s	m	SYBR	Unknown	18.655119	18.696583	18.693254	0.036585998	Automatic	Automatic	0.2798842	TRUE
+162	7	18s	m	SYBR	Unknown	18.696583	18.696583	18.693254	0.036585998	Automatic	Automatic	0.2798842	TRUE
+184	8	18s	m	SYBR	Unknown	16.338049	16.345102	16.353994	0.021797094	Automatic	Automatic	0.2798842	TRUE																										
+185	8	18s	m	SYBR	Unknown	16.345102	16.345102	16.353994	0.021797094	Automatic	Automatic	0.2798842	TRUE																										
+186	8	18s	m	SYBR	Unknown	16.378832	16.345102	16.353994	0.021797094	Automatic	Automatic	0.2798842	TRUE																										
+208	9	18s	m	SYBR	Unknown	25.758219	25.758219	25.784464	0.095337406	Automatic	Automatic	0.2798842	TRUE																										
+209	9	18s	m	SYBR	Unknown	25.704998	25.758219	25.784464	0.095337406	Automatic	Automatic	0.2798842	TRUE																										
+210	9	18s	m	SYBR	Unknown	25.890175	25.758219	25.784464	0.095337406	Automatic	Automatic	0.2798842	TRUE																										
+232	NTC	18s	m	SYBR	Unknown	Undetermined	34.948723	34.948723	1.414567	Automatic	Automatic	0.2798842	TRUE	TRUE																									
+233	NTC	18s	m	SYBR	Unknown	35.94897	34.948723	34.948723	1.414567	Automatic	Automatic	0.2798842																											
+234	NTC	18s	m	SYBR	Unknown	33.94847	34.948723	34.948723	1.414567	Automatic	Automatic	0.2798842																											
+Slope	cycles/log	decade																																					
+Y-Intercept																																							
+R^2																																							
+
+
+Well	Sample	Name	Detector	Name	Reporter	Task	Ct	Quantity	Qty	Mean	Qty	StdDev	Ct	Median	Ct	Mean	Ct	StdDev	Baseline	Type	Baseline	Start	Baseline	Stop	Threshold	Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF
+244	001fg	mCerulean	SYBR	Unknown	28.992794	28.887297	27.137796	3.1220345	Automatic	Automatic	0.09256024																												
+245	001fg	mCerulean	SYBR	Unknown	28.887297	28.887297	27.137796	3.1220345	Automatic	Automatic	0.09256024
+246	001fg	mCerulean	SYBR	Unknown	23.533295	28.887297	27.137796	3.1220345	Automatic	Automatic	0.09256024
+316	001pg	mCerulean	SYBR	Unknown	20.707233	20.707233	20.782337	0.17429665	Automatic	Automatic	0.09256024
+317	001pg	mCerulean	SYBR	Unknown	20.658184	20.707233	20.782337	0.17429665	Automatic	Automatic	0.09256024
+318	001pg	mCerulean	SYBR	Unknown	20.981596	20.707233	20.782337	0.17429665	Automatic	Automatic	0.09256024
+268	01fg	mCerulean	SYBR	Unknown	28.443771	27.612293	27.85254	0.5150074	Automatic	Automatic	0.09256024
+269	01fg	mCerulean	SYBR	Unknown	27.612293	27.612293	27.85254	0.5150074	Automatic	Automatic	0.09256024
+270	01fg	mCerulean	SYBR	Unknown	27.501553	27.612293	27.85254	0.5150074	Automatic	Automatic	0.09256024
+340	01pg	mCerulean	SYBR	Unknown	17.094847	17.484764	17.367043	0.23644367	Automatic	Automatic	0.09256024
+341	01pg	mCerulean	SYBR	Unknown	17.521517	17.484764	17.367043	0.23644367	Automatic	Automatic	0.09256024
+342	01pg	mCerulean	SYBR	Unknown	17.484764	17.484764	17.367043	0.23644367	Automatic	Automatic	0.09256024
+4	1	mCerulean	SYBR	Unknown	28.897762	28.897762	28.875856	0.14127694	Automatic	Automatic	0.09256024
+5	1	mCerulean	SYBR	Unknown	29.004902	28.897762	28.875856	0.14127694	Automatic	Automatic	0.09256024
+6	1	mCerulean	SYBR	Unknown	28.724907	28.897762	28.875856	0.14127694	Automatic	Automatic	0.09256024
+292	1fg	mCerulean	SYBR	Unknown	24.015886	24.054167	24.148779	0.19795239	Automatic	Automatic	0.09256024
+293	1fg	mCerulean	SYBR	Unknown	24.054167	24.054167	24.148779	0.19795239	Automatic	Automatic	0.09256024
+294	1fg	mCerulean	SYBR	Unknown	24.376284	24.054167	24.148779	0.19795239	Automatic	Automatic	0.09256024
+364	1pg	mCerulean	SYBR	Unknown	12.924706	13.163469	13.220981	0.32882428	Automatic	Automatic	0.09256024
+365	1pg	mCerulean	SYBR	Unknown	13.163469	13.163469	13.220981	0.32882428	Automatic	Automatic	0.09256024
+366	1pg	mCerulean	SYBR	Unknown	13.574767	13.163469	13.220981	0.32882428	Automatic	Automatic	0.09256024
+28	2	mCerulean	SYBR	Unknown	20.22983	20.22983	22.190607	3.4163659	Automatic	Automatic	0.09256024
+29	2	mCerulean	SYBR	Unknown	20.206532	20.22983	22.190607	3.4163659	Automatic	Automatic	0.09256024
+30	2	mCerulean	SYBR	Unknown	26.135466	20.22983	22.190607	3.4163659	Automatic	Automatic	0.09256024
+52	3	mCerulean	SYBR	Unknown	20.852043	20.852043	20.881002	0.12488893	Automatic	Automatic	0.09256024
+53	3	mCerulean	SYBR	Unknown	20.773136	20.852043	20.881002	0.12488893	Automatic	Automatic	0.09256024
+54	3	mCerulean	SYBR	Unknown	21.017826	20.852043	20.881002	0.12488893	Automatic	Automatic	0.09256024
+76	4	mCerulean	SYBR	Unknown	20.461676	20.452663	20.357498	0.17269467	Automatic	Automatic	0.09256024
+77	4	mCerulean	SYBR	Unknown	20.158155	20.452663	20.357498	0.17269467	Automatic	Automatic	0.09256024
+78	4	mCerulean	SYBR	Unknown	20.452663	20.452663	20.357498	0.17269467	Automatic	Automatic	0.09256024
+100	5	mCerulean	SYBR	Unknown	19.162083	19.133966	18.989244	0.2753743	Automatic	Automatic	0.09256024
+101	5	mCerulean	SYBR	Unknown	18.671684	19.133966	18.989244	0.2753743	Automatic	Automatic	0.09256024
+102	5	mCerulean	SYBR	Unknown	19.133966	19.133966	18.989244	0.2753743	Automatic	Automatic	0.09256024
+124	6	mCerulean	SYBR	Unknown	20.310116	20.310116	20.396778	0.18339494	Automatic	Automatic	0.09256024	
+125	6	mCerulean	SYBR	Unknown	20.272776	20.310116	20.396778	0.18339494	Automatic	Automatic	0.09256024	
+126	6	mCerulean	SYBR	Unknown	20.607445	20.310116	20.396778	0.18339494	Automatic	Automatic	0.09256024	
+148	7	mCerulean	SYBR	Unknown	23.936369	23.652346	23.719042	0.19283226	Automatic	Automatic	0.09256024	
+149	7	mCerulean	SYBR	Unknown	23.652346	23.652346	23.719042	0.19283226	Automatic	Automatic	0.09256024	
+150	7	mCerulean	SYBR	Unknown	23.568413	23.652346	23.719042	0.19283226	Automatic	Automatic	0.09256024	
+172	8	mCerulean	SYBR	Unknown	21.422401	21.422401	21.405416	0.1440635	Automatic	Automatic	0.09256024	
+173	8	mCerulean	SYBR	Unknown	21.253613	21.422401	21.405416	0.1440635	Automatic	Automatic	0.09256024	
+174	8	mCerulean	SYBR	Unknown	21.540234	21.422401	21.405416	0.1440635	Automatic	Automatic	0.09256024	
+196	9	mCerulean	SYBR	Unknown	22.636852	23.808659	24.45198	2.208227	Automatic	Automatic	0.09256024	
+197	9	mCerulean	SYBR	Unknown	26.91043	23.808659	24.45198	2.208227	Automatic	Automatic	0.09256024	TRUE
+198	9	mCerulean	SYBR	Unknown	23.808659	23.808659	24.45198	2.208227	Automatic	Automatic	0.09256024	
+220	NTC	mCerulean	SYBR	Unknown	28.679869	28.266005	27.651428	1.4378616	Automatic	Automatic	0.09256024	
+221	NTC	mCerulean	SYBR	Unknown	26.008413	28.266005	27.651428	1.4378616	Automatic	Automatic	0.09256024	
+222	NTC	mCerulean	SYBR	Unknown	28.266005	28.266005	27.651428	1.4378616	Automatic	Automatic	0.09256024	
+Slope	cycles/log	decade										
+Y-Intercept																																							
+R^2																																							
+
+
+Well	Sample	Name	Detector	Name	Reporter	Task	Ct	Quantity	Qty	Mean	Qty	StdDev	Ct	Median	Ct	Mean	Ct	StdDev	Baseline	Type	Baseline	Start	Baseline	Stop	Threshold	Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF
+250	001fg	mCherry	SYBR	Unknown	33.94976	33.94976	33.77814	0.30778095	Automatic	Automatic	0.24417856																												
+251	001fg	mCherry	SYBR	Unknown	33.422813	33.94976	33.77814	0.30778095	Automatic	Automatic	0.24417856																												
+252	001fg	mCherry	SYBR	Unknown	33.961845	33.94976	33.77814	0.30778095	Automatic	Automatic	0.24417856																												
+322	001pg	mCherry	SYBR	Unknown	20.267185	20.202686	20.216333	0.04558697	Automatic	Automatic	0.24417856																												
+323	001pg	mCherry	SYBR	Unknown	20.202686	20.202686	20.216333	0.04558697	Automatic	Automatic	0.24417856																												
+324	001pg	mCherry	SYBR	Unknown	20.179129	20.202686	20.216333	0.04558697	Automatic	Automatic	0.24417856																												
+274	01fg	mCherry	SYBR	Unknown	30.531141	29.938423	30.0539	0.4312587	Automatic	Automatic	0.24417856																												
+275	01fg	mCherry	SYBR	Unknown	29.692135	29.938423	30.0539	0.4312587	Automatic	Automatic	0.24417856																												
+276	01fg	mCherry	SYBR	Unknown	29.938423	29.938423	30.0539	0.4312587	Automatic	Automatic	0.24417856																												
+346	01pg	mCherry	SYBR	Unknown	17.719166	17.586042	17.570498	0.1570189	Automatic	Automatic	0.24417856																												
+347	01pg	mCherry	SYBR	Unknown	17.406284	17.586042	17.570498	0.1570189	Automatic	Automatic	0.24417856																												
+348	01pg	mCherry	SYBR	Unknown	17.586042	17.586042	17.570498	0.1570189	Automatic	Automatic	0.24417856
+10	1	mCherry	SYBR	Unknown	33.03272	33.07524	33.392437	0.5866103	Automatic	Automatic	0.24417856
+11	1	mCherry	SYBR	Unknown	33.07524	33.07524	33.392437	0.5866103	Automatic	Automatic	0.24417856
+12	1	mCherry	SYBR	Unknown	34.06935	33.07524	33.392437	0.5866103	Automatic	Automatic	0.24417856
+298	1fg	mCherry	SYBR	Unknown	23.940414	23.940414	23.87867	0.15638272	Automatic	Automatic	0.24417856
+299	1fg	mCherry	SYBR	Unknown	23.70084	23.940414	23.87867	0.15638272	Automatic	Automatic	0.24417856
+300	1fg	mCherry	SYBR	Unknown	23.994753	23.940414	23.87867	0.15638272	Automatic	Automatic	0.24417856
+370	1pg	mCherry	SYBR	Unknown	13.366371	13.392015	13.601003	0.3844007	Automatic	Automatic	0.24417856
+371	1pg	mCherry	SYBR	Unknown	14.044624	13.392015	13.601003	0.3844007	Automatic	Automatic	0.24417856
+372	1pg	mCherry	SYBR	Unknown	13.392015	13.392015	13.601003	0.3844007	Automatic	Automatic	0.24417856
+34	2	mCherry	SYBR	Unknown	22.420715	22.486013	22.510925	0.10490614	Automatic	Automatic	0.24417856
+35	2	mCherry	SYBR	Unknown	22.486013	22.486013	22.510925	0.10490614	Automatic	Automatic	0.24417856
+36	2	mCherry	SYBR	Unknown	22.626043	22.486013	22.510925	0.10490614	Automatic	Automatic	0.24417856
+58	3	mCherry	SYBR	Unknown	23.637245	23.43831	23.456327	0.17261687	Automatic	Automatic	0.24417856
+59	3	mCherry	SYBR	Unknown	23.293425	23.43831	23.456327	0.17261687	Automatic	Automatic	0.24417856
+60	3	mCherry	SYBR	Unknown	23.43831	23.43831	23.456327	0.17261687	Automatic	Automatic	0.24417856
+82	4	mCherry	SYBR	Unknown	21.86546	21.636627	21.668997	0.18244262	Automatic	Automatic	0.24417856
+83	4	mCherry	SYBR	Unknown	21.504908	21.636627	21.668997	0.18244262	Automatic	Automatic	0.24417856
+84	4	mCherry	SYBR	Unknown	21.636627	21.636627	21.668997	0.18244262	Automatic	Automatic	0.24417856
+106	5	mCherry	SYBR	Unknown	20.113052	20.169214	20.153307	0.03511665	Automatic	Automatic	0.24417856
+107	5	mCherry	SYBR	Unknown	20.169214	20.169214	20.153307	0.03511665	Automatic	Automatic	0.24417856
+108	5	mCherry	SYBR	Unknown	20.177656	20.169214	20.153307	0.03511665	Automatic	Automatic	0.24417856
+130	6	mCherry	SYBR	Unknown	22.184141	22.518661	22.432478	0.21839394	Automatic	Automatic	0.24417856
+131	6	mCherry	SYBR	Unknown	22.59463	22.518661	22.432478	0.21839394	Automatic	Automatic	0.24417856
+132	6	mCherry	SYBR	Unknown	22.518661	22.518661	22.432478	0.21839394	Automatic	Automatic	0.24417856
+154	7	mCherry	SYBR	Unknown	24.975773	25.041714	25.026377	0.044943642	Automatic	Automatic	0.24417856
+155	7	mCherry	SYBR	Unknown	25.041714	25.041714	25.026377	0.044943642	Automatic	Automatic	0.24417856
+156	7	mCherry	SYBR	Unknown	25.061646	25.041714	25.026377	0.044943642	Automatic	Automatic	0.24417856
+178	8	mCherry	SYBR	Unknown	23.56846	23.450563	23.46421	0.09813889	Automatic	Automatic	0.24417856
+179	8	mCherry	SYBR	Unknown	23.450563	23.450563	23.46421	0.09813889	Automatic	Automatic	0.24417856
+180	8	mCherry	SYBR	Unknown	23.373611	23.450563	23.46421	0.09813889	Automatic	Automatic	0.24417856
+202	9	mCherry	SYBR	Unknown	27.041124	27.187145	27.158442	0.10592431	Automatic	Automatic	0.24417856
+203	9	mCherry	SYBR	Unknown	27.187145	27.187145	27.158442	0.10592431	Automatic	Automatic	0.24417856																												
+204	9	mCherry	SYBR	Unknown	27.247057	27.187145	27.158442	0.10592431	Automatic	Automatic	0.24417856																												
+226	NTC	mCherry	SYBR	Unknown	33.0382	33.0382	33.28927	0.5275231	Automatic	Automatic	0.24417856																												
+227	NTC	mCherry	SYBR	Unknown	32.934174	33.0382	33.28927	0.5275231	Automatic	Automatic	0.24417856																												
+228	NTC	mCherry	SYBR	Unknown	33.89543	33.0382	33.28927	0.5275231	Automatic	Automatic	0.24417856																												
+Slope	cycles/log	decade																																					
+Y-Intercept																																							
+R^2																																							
+
+
+Well	Sample	Name	Detector	Name	Reporter	Task	Ct	Quantity	Qty	Mean	Qty	StdDev	Ct	Median	Ct	Mean	Ct	StdDev	Baseline	Type	Baseline	Start	Baseline	Stop	Threshold	Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF
+247	001fg	mKOrange	SYBR	Unknown	33.46761	32.41906	32.76135	0.6117346	Automatic	Automatic	0.12230034																												
+248	001fg	mKOrange	SYBR	Unknown	32.39738	32.41906	32.76135	0.6117346	Automatic	Automatic	0.12230034																												
+249	001fg	mKOrange	SYBR	Unknown	32.41906	32.41906	32.76135	0.6117346	Automatic	Automatic	0.12230034																												
+319	001pg	mKOrange	SYBR	Unknown	19.30776	19.30776	19.354721	0.1102954	Automatic	Automatic	0.12230034																												
+320	001pg	mKOrange	SYBR	Unknown	19.275677	19.30776	19.354721	0.1102954	Automatic	Automatic	0.12230034																												
+321	001pg	mKOrange	SYBR	Unknown	19.480724	19.30776	19.354721	0.1102954	Automatic	Automatic	0.12230034
+271	01fg	mKOrange	SYBR	Unknown	30.52501	30.52501	30.116663	0.8940542	Automatic	Automatic	0.12230034
+272	01fg	mKOrange	SYBR	Unknown	29.091349	30.52501	30.116663	0.8940542	Automatic	Automatic	0.12230034
+273	01fg	mKOrange	SYBR	Unknown	30.733631	30.52501	30.116663	0.8940542	Automatic	Automatic	0.12230034
+343	01pg	mKOrange	SYBR	Unknown	16.10267	16.10267	16.21284	0.20451686	Automatic	Automatic	0.12230034
+344	01pg	mKOrange	SYBR	Unknown	16.087025	16.10267	16.21284	0.20451686	Automatic	Automatic	0.12230034
+345	01pg	mKOrange	SYBR	Unknown	16.448822	16.10267	16.21284	0.20451686	Automatic	Automatic	0.12230034
+7	1	mKOrange	SYBR	Unknown	33.333256	33.333256	32.844074	0.8482863	Automatic	Automatic	0.12230034
+8	1	mKOrange	SYBR	Unknown	31.864561	33.333256	32.844074	0.8482863	Automatic	Automatic	0.12230034
+9	1	mKOrange	SYBR	Unknown	33.334415	33.333256	32.844074	0.8482863	Automatic	Automatic	0.12230034
+295	1fg	mKOrange	SYBR	Unknown	23.410875	23.410875	23.414825	0.066157125	Automatic	Automatic	0.12230034
+296	1fg	mKOrange	SYBR	Unknown	23.35073	23.410875	23.414825	0.066157125	Automatic	Automatic	0.12230034
+297	1fg	mKOrange	SYBR	Unknown	23.482868	23.410875	23.414825	0.066157125	Automatic	Automatic	0.12230034
+367	1pg	mKOrange	SYBR	Unknown	12.281427	12.405073	12.544434	0.35390094	Automatic	Automatic	0.12230034
+368	1pg	mKOrange	SYBR	Unknown	12.405073	12.405073	12.544434	0.35390094	Automatic	Automatic	0.12230034
+369	1pg	mKOrange	SYBR	Unknown	12.946799	12.405073	12.544434	0.35390094	Automatic	Automatic	0.12230034
+31	2	mKOrange	SYBR	Unknown	19.497011	19.611479	25.350512	10.039593	Automatic	Automatic	0.12230034
+32	2	mKOrange	SYBR	Unknown	19.611479	19.611479	25.350512	10.039593	Automatic	Automatic	0.12230034
+33	2	mKOrange	SYBR	Unknown	36.943047	19.611479	25.350512	10.039593	Automatic	Automatic	0.12230034
+55	3	mKOrange	SYBR	Unknown	20.594213	20.594213	20.721237	0.22351694	Automatic	Automatic	0.12230034
+56	3	mKOrange	SYBR	Unknown	20.590178	20.594213	20.721237	0.22351694	Automatic	Automatic	0.12230034
+57	3	mKOrange	SYBR	Unknown	20.979322	20.594213	20.721237	0.22351694	Automatic	Automatic	0.12230034
+79	4	mKOrange	SYBR	Unknown	18.982405	19.059359	19.068754	0.09140816	Automatic	Automatic	0.12230034
+80	4	mKOrange	SYBR	Unknown	19.059359	19.059359	19.068754	0.09140816	Automatic	Automatic	0.12230034
+81	4	mKOrange	SYBR	Unknown	19.164495	19.059359	19.068754	0.09140816	Automatic	Automatic	0.12230034
+103	5	mKOrange	SYBR	Unknown	18.383867	18.383867	18.404242	0.056606345	Automatic	Automatic	0.12230034
+104	5	mKOrange	SYBR	Unknown	18.360641	18.383867	18.404242	0.056606345	Automatic	Automatic	0.12230034
+105	5	mKOrange	SYBR	Unknown	18.468214	18.383867	18.404242	0.056606345	Automatic	Automatic	0.12230034
+127	6	mKOrange	SYBR	Unknown	20.346573	20.52606	20.53583	0.19432467	Automatic	Automatic	0.12230034
+128	6	mKOrange	SYBR	Unknown	20.734854	20.52606	20.53583	0.19432467	Automatic	Automatic	0.12230034
+129	6	mKOrange	SYBR	Unknown	20.52606	20.52606	20.53583	0.19432467	Automatic	Automatic	0.12230034
+151	7	mKOrange	SYBR	Unknown	22.852316	22.852316	22.790466	0.14531872	Automatic	Automatic	0.12230034
+152	7	mKOrange	SYBR	Unknown	22.624454	22.852316	22.790466	0.14531872	Automatic	Automatic	0.12230034
+153	7	mKOrange	SYBR	Unknown	22.894629	22.852316	22.790466	0.14531872	Automatic	Automatic	0.12230034
+175	8	mKOrange	SYBR	Unknown	21.656952	21.851627	21.800247	0.1257429	Automatic	Automatic	0.12230034
+176	8	mKOrange	SYBR	Unknown	21.851627	21.851627	21.800247	0.1257429	Automatic	Automatic	0.12230034
+177	8	mKOrange	SYBR	Unknown	21.892166	21.851627	21.800247	0.1257429	Automatic	Automatic	0.12230034
+199	9	mKOrange	SYBR	Unknown	22.362776	22.362776	22.360298	0.13066053	Automatic	Automatic	0.12230034
+200	9	mKOrange	SYBR	Unknown	22.228415	22.362776	22.360298	0.13066053	Automatic	Automatic	0.12230034
+201	9	mKOrange	SYBR	Unknown	22.4897	22.362776	22.360298	0.13066053	Automatic	Automatic	0.12230034
+223	NTC	mKOrange	SYBR	Unknown	36.71635	34.183266	34.54811	2.0107965	Automatic	Automatic	0.12230034
+224	NTC	mKOrange	SYBR	Unknown	34.183266	34.183266	34.54811	2.0107965	Automatic	Automatic	0.12230034
+225	NTC	mKOrange	SYBR	Unknown	32.744717	34.183266	34.54811	2.0107965	Automatic	Automatic	0.12230034
+Slope	cycles/log	decade									
+Y-Intercept											
+R^2											
+
+
+Well	Sample	Name	Detector	Name	Reporter	Task	Ct	Quantity	Qty	Mean	Qty	StdDev	Ct	Median	Ct	Mean	Ct	StdDev	Baseline	Type	Baseline	Start	Baseline	Stop	Threshold	Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF
+253	001fg	YFP	SYBR	Unknown	33.387146	33.908176	33.756916	0.32199335	Automatic	Automatic	0.27994427																												
+254	001fg	YFP	SYBR	Unknown	33.908176	33.908176	33.756916	0.32199335	Automatic	Automatic	0.27994427																												
+255	001fg	YFP	SYBR	Unknown	33.975433	33.908176	33.756916	0.32199335	Automatic	Automatic	0.27994427																												
+325	001pg	YFP	SYBR	Unknown	19.890831	19.991726	19.974829	0.07695411	Automatic	Automatic	0.27994427																												
+326	001pg	YFP	SYBR	Unknown	20.041931	19.991726	19.974829	0.07695411	Automatic	Automatic	0.27994427																												
+327	001pg	YFP	SYBR	Unknown	19.991726	19.991726	19.974829	0.07695411	Automatic	Automatic	0.27994427																												
+277	01fg	YFP	SYBR	Unknown	28.941618	31.036003	30.369036	1.2370628	Automatic	Automatic	0.27994427																												
+278	01fg	YFP	SYBR	Unknown	31.129484	31.036003	30.369036	1.2370628	Automatic	Automatic	0.27994427																												
+279	01fg	YFP	SYBR	Unknown	31.036003	31.036003	30.369036	1.2370628	Automatic	Automatic	0.27994427																												
+349	01pg	YFP	SYBR	Unknown	16.918598	16.956831	16.946165	0.024076339	Automatic	Automatic	0.27994427																												
+350	01pg	YFP	SYBR	Unknown	16.956831	16.956831	16.946165	0.024076339	Automatic	Automatic	0.27994427																												
+351	01pg	YFP	SYBR	Unknown	16.963066	16.956831	16.946165	0.024076339	Automatic	Automatic	0.27994427																												
+13	1	YFP	SYBR	Unknown	34.042892	34.042892	34.19412	0.30687	Automatic	Automatic	0.27994427																												
+14	1	YFP	SYBR	Unknown	33.992214	34.042892	34.19412	0.30687	Automatic	Automatic	0.27994427																												
+15	1	YFP	SYBR	Unknown	34.547253	34.042892	34.19412	0.30687	Automatic	Automatic	0.27994427																												
+301	1fg	YFP	SYBR	Unknown	23.946472	23.981182	23.974335	0.02514961	Automatic	Automatic	0.27994427
+302	1fg	YFP	SYBR	Unknown	23.995354	23.981182	23.974335	0.02514961	Automatic	Automatic	0.27994427
+303	1fg	YFP	SYBR	Unknown	23.981182	23.981182	23.974335	0.02514961	Automatic	Automatic	0.27994427
+373	1pg	YFP	SYBR	Unknown	13.075759	13.425697	13.366947	0.26671153	Automatic	Automatic	0.27994427
+374	1pg	YFP	SYBR	Unknown	13.425697	13.425697	13.366947	0.26671153	Automatic	Automatic	0.27994427
+375	1pg	YFP	SYBR	Unknown	13.599386	13.425697	13.366947	0.26671153	Automatic	Automatic	0.27994427
+37	2	YFP	SYBR	Unknown	20.341545	20.389132	20.383102	0.03889481	Automatic	Automatic	0.27994427
+38	2	YFP	SYBR	Unknown	20.389132	20.389132	20.383102	0.03889481	Automatic	Automatic	0.27994427
+39	2	YFP	SYBR	Unknown	20.41863	20.389132	20.383102	0.03889481	Automatic	Automatic	0.27994427
+61	3	YFP	SYBR	Unknown	20.8026	20.8026	20.75629	0.08281999	Automatic	Automatic	0.27994427
+62	3	YFP	SYBR	Unknown	20.660673	20.8026	20.75629	0.08281999	Automatic	Automatic	0.27994427
+63	3	YFP	SYBR	Unknown	20.805595	20.8026	20.75629	0.08281999	Automatic	Automatic	0.27994427
+85	4	YFP	SYBR	Unknown	20.574589	20.636318	20.626026	0.047141634	Automatic	Automatic	0.27994427
+86	4	YFP	SYBR	Unknown	20.667171	20.636318	20.626026	0.047141634	Automatic	Automatic	0.27994427
+87	4	YFP	SYBR	Unknown	20.636318	20.636318	20.626026	0.047141634	Automatic	Automatic	0.27994427
+109	5	YFP	SYBR	Unknown	19.821482	19.498928	19.511192	0.30434358	Automatic	Automatic	0.27994427
+110	5	YFP	SYBR	Unknown	19.213165	19.498928	19.511192	0.30434358	Automatic	Automatic	0.27994427
+111	5	YFP	SYBR	Unknown	19.498928	19.498928	19.511192	0.30434358	Automatic	Automatic	0.27994427
+133	6	YFP	SYBR	Unknown	20.425936	20.425936	20.809614	0.6792143	Automatic	Automatic	0.27994427
+134	6	YFP	SYBR	Unknown	21.593843	20.425936	20.809614	0.6792143	Automatic	Automatic	0.27994427
+135	6	YFP	SYBR	Unknown	20.409065	20.425936	20.809614	0.6792143	Automatic	Automatic	0.27994427
+157	7	YFP	SYBR	Unknown	23.460886	23.460886	23.481829	0.16344886	Automatic	Automatic	0.27994427
+158	7	YFP	SYBR	Unknown	23.329863	23.460886	23.481829	0.16344886	Automatic	Automatic	0.27994427
+159	7	YFP	SYBR	Unknown	23.654741	23.460886	23.481829	0.16344886	Automatic	Automatic	0.27994427
+181	8	YFP	SYBR	Unknown	21.654968	21.867678	22.104944	0.60459846	Automatic	Automatic	0.27994427
+182	8	YFP	SYBR	Unknown	21.867678	21.867678	22.104944	0.60459846	Automatic	Automatic	0.27994427
+183	8	YFP	SYBR	Unknown	22.792189	21.867678	22.104944	0.60459846	Automatic	Automatic	0.27994427
+205	9	YFP	SYBR	Unknown	21.804052	21.804052	21.775726	0.16955167	Automatic	Automatic	0.27994427
+206	9	YFP	SYBR	Unknown	21.593794	21.804052	21.775726	0.16955167	Automatic	Automatic	0.27994427
+207	9	YFP	SYBR	Unknown	21.929329	21.804052	21.775726	0.16955167	Automatic	Automatic	0.27994427
+229	NTC	YFP	SYBR	Unknown	34.936775	34.936775	34.930065	0.16075532	Automatic	Automatic	0.27994427
+230	NTC	YFP	SYBR	Unknown	35.08736	34.936775	34.930065	0.16075532	Automatic	Automatic	0.27994427
+231	NTC	YFP	SYBR	Unknown	34.76606	34.936775	34.930065	0.16075532	Automatic	Automatic	0.27994427
+Slope	cycles/log	decade									
+Y-Intercept											
+R^2											
+
+
+
+NAP	LPL										
