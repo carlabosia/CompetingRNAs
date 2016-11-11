@@ -2,6 +2,7 @@
 
 data and scripts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.166289.svg)](https://doi.org/10.5281/zenodo.166289)
 
 This repository contains the Matlab scripts and the RealTime raw data
 presented in the paper [Quantitative study of crossregulation, noise
