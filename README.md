@@ -1,6 +1,6 @@
 # CompetingRNAs
 
-data and scripts for the Genome Biology paper
+data and scripts
 
 
 This repository contains the Matlab scripts and the RealTime raw data
