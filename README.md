@@ -11,4 +11,7 @@ Sgrò, Laura Conti, Carlo Baldassi, Federica Cavallo, Ferdinando Di
 Cunto, Emilia Turco, Andrea Pagnani, Riccardo Zecchina.
 
 
+If you use the code in your research, please cite the abovementioned paper
+and the following DOI:
+
 
